@@ -1,0 +1,6 @@
+/*Step*/
+
+.step {
+    display: flex;
+    flex-direction: column;
+}
